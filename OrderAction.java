@@ -1,7 +1,3 @@
-/** 
- * 📝This class is responsible only for order-related actions, 
- * following the Single Responsibility Principle.
- */
 
  public class OrderAction implements Order {
 
