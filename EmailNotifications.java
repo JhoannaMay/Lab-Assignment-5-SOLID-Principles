@@ -1,4 +1,4 @@
-public class EmailNotification implements Notification {
+public class EmailNotifications implements Notification {
 
     @Override
     public void sendEmailNotification(String email) {
