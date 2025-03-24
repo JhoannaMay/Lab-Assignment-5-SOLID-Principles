@@ -1,5 +1,4 @@
 public class InvoiceAction implements Invoice {
-
     @Override
     public void generateInvoice(String fileName) {
 
