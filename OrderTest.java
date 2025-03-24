@@ -4,7 +4,7 @@ public class OrderTest {
     private Invoice invoice;
     private Notification notification;
 
-    // Constructor with dependency injection
+
     public OrderTest(Order order, Invoice invoice, Notification notification) {
         this.order = order;
         this.invoice = invoice;
